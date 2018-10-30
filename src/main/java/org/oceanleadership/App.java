@@ -58,8 +58,10 @@ public class App {
 				}
 			});
 
-			String dref = ctx.formParam("dataref");
-			String sref = ctx.formParam("shaperef");
+			//String dref = ctx.formParam("dataref");
+			//String sref = ctx.formParam("shaperef");
+			String dref = "dataref";
+			String sref = "shaperef";
 
 			System.out.println("----> " + dref);
 			System.out.println("----> " + sref);

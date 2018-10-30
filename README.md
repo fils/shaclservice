@@ -18,7 +18,7 @@ mvn clean compile assembly:single
 ```
 
 
-## Runing
+## Running
 
 At the command line you can use 
 
