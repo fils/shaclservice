@@ -1,9 +1,13 @@
-# SHACK Service
+# SHACL Service
 
 ## About
 This simple package is taking the TopQuadrant SHACL library (https://github.com/TopQuadrant/shacl).  
 It wraps it in a simple RESTful wrapper using Javalin (https://javalin.io/).   
 
+## Alternatives
+Another SHACL library was brought to my attention after this work which may be of interest to 
+those wanting to live in Python land vs Java land.  PySHACL can be found at
+https://github.com/RDFLib/pySHACL 
 
 ## Compiling
 
